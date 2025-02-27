@@ -1,0 +1,2 @@
+hello g5
+this is my scm class
